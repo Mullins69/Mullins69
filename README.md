@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [http://abdulmportfolio.web.app/](http://abdulmportfolio.web.app/)
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **mullinsatheem@gmail.com**
 
 - 📄 Know about my experiences [https://abdulmportfolio.web.app/about-me](https://abdulmportfolio.web.app/about-me)
 
-- ⚡ Fun fact **I like coffee**
+- ⚡ Fun fact **I'm a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
