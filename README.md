@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mullinsatheem@gmail.com**
 
-- 📄 Know about my experiences [https://abdulmportfolio.web.app/about-me](https://abdulmportfolio.web.app/about-me)
+- 📄 Know about my experiences [https://abdulmportfolio.web.app/about-me](https://abdulmportfolio.web.app/about)
 
 - ⚡ Fun fact **I'm a gamer**
 
