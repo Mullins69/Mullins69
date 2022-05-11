@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm abdul mullins</h1>
 <h3 align="center">A passionate Full Stack Web Developer from South Africa</h3>
 
-- 🔭 I’m currently working on **colab pos**
+- 🔭 I’m currently working on **Private Projects**
 
-- 🌱 I’m currently learning **Vue.js Node.js Express.js Mysql MongoDb JavaScript Bootstrap HTML CSS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [http://abdulmportfolio.web.app/](http://abdulmportfolio.web.app/)
 
