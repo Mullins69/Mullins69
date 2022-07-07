@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Private Projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Shopify & Liquid**
 
 - 👨‍💻 All of my projects are available at [http://abdulmportfolio.web.app/](http://abdulmportfolio.web.app/)
 
