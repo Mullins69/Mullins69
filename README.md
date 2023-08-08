@@ -25,21 +25,8 @@
 
 ### 🔧 Skills & Tools
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/react-native.svg" alt="React Native" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/shopify-plus.svg" alt="Shopify Plus" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/remix.svg" alt="Remix" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/next-dot-js.svg" alt="Next.js" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/typescript.svg" alt="TypeScript" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/hydrogen.svg" alt="Hydrogen" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/firebase.svg" alt="Firebase" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/cloud-firestore.svg" alt="Cloud Firestore" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/react.svg" alt="React.js" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/node-dot-js.svg" alt="Node.js" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/javascript.svg" alt="JavaScript" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/svg/vue-dot-js.svg" alt="Vue.js" width="40" height="40" /> 
-</p>
+[![Abdul's Skills](https://skillicons.dev/icons?i=react,react-native,shopify-plus,nextjs,typescript,firebase,cloud-firestore,js,express,nodejs,tailwind,css,vue)](https://skillicons.dev)
+
 
 
 ### 📈 My GitHub Stats
