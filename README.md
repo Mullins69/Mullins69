@@ -25,7 +25,8 @@
 
 ### 🔧 Skills & Tools
 
-[![Abdul's Skills](https://skillicons.dev/icons?i=react,react-native,shopify-plus,nextjs,typescript,firebase,cloud-firestore,js,express,nodejs,tailwind,css,vue)](https://skillicons.dev)
+[![Abdul's Skills](https://skillicons.dev/icons?i=react,react-native,nextjs,typescript,firebase,js,nodejs,tailwind,css,vue)](https://skillicons.dev)
+
 
 
 
