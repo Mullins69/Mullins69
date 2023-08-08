@@ -13,7 +13,7 @@
 👾 Intermediate Developer focusing on JavaScript-based apps.  
 🖥️ Proud to have developed for top SA brands:  
    - [Crocs](https://crocssa.co.za/)
-   - [Under Armour](https://underarmour.co.za)
+   - [Under Armour](https://underarmour.co.za) && APP [IOS](https://apps.apple.com/app/under-armour-sa/id6451363260) [ANDROID](https://play.google.com/store/apps/details?id=co.za.underarmour.app)
    - [Bash Africa](https://bashafrica.com)
    - [2xU](https://2xu.co.za/)
    - [Avalanche Bikes](https://avalanchebikes.co.za/)
