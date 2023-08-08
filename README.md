@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm abdul mullins</h1>
-<h3 align="center">A passionate Full Stack Web Developer from South Africa</h3>
+<h3 align="center">A passionate Intermediate Developer from South Africa</h3>
 
 - 🔭 I’m currently working on **JavaScript based apps**
 
-- 🌱 I’m currently learning **Hydrogen**
 
 - 👨‍💻 All of my projects are available at [http://abdulmportfolio.web.app/](http://abdulmportfolio.web.app/)
 
