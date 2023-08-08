@@ -36,8 +36,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mullins69&show_icons=true&locale=en&layout=compact" alt="mullins69's Language Stats" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pie-repo?username=mullins69" alt="mullins69's 
+<p
+    
 
 
 ### 💌 Get In Touch
