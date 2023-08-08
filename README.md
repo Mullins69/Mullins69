@@ -37,10 +37,7 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pie-repo?username=mullins69" alt="mullins69's Private Repo Pie Chart" />
-</p>
-
-> Note: This pie chart API doesn't exist in the official GitHub Readme Stats as of my last update. You might need a custom solution or look for alternative services that provide similar data visualizations.
+<img align="center" src="https://github-readme-stats.vercel.app/api/pie-repo?username=mullins69" alt="mullins69's 
 
 ### 💌 Get In Touch
 
