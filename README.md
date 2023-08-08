@@ -18,7 +18,7 @@
    - [2xU](https://2xu.co.za/)
    - [Avalanche Bikes](https://avalanchebikes.co.za/)
 
-🎨 Checkout my portfolio: [abdulmportfolio.web.app](http://abdulmportfolio.web.app/).  
+
 🕹️ Fun fact: Gaming & Music is my PeanutButter && jam!  
 💼 Want to connect? Here's my [LinkedIn](https://www.linkedin.com/in/abdul-atheem-mullins-4a0229222/).
 
