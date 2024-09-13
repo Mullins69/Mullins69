@@ -10,6 +10,7 @@
 
 ### 🎯 About Me
 I'm funny... sometimes..........
+
 👾 Intermediate Developer focusing on JavaScript-based apps.  
 🖥️ Proud to have developed for top SA brands:  
    - [Crocs](https://crocssa.co.za/)
