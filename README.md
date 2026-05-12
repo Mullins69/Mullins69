@@ -3,7 +3,7 @@
 <div align="center">
 <!--     <img src="path-to-your-avatar-or-image" alt="Abdul Mullins' Avatar" width="150"> -->
     <br>
-    <em>Intermediate Developer & Gamer from South Africa</em>
+    Senior Developer & Gamer from South Africa</em>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 ### 🎯 About Me
 I'm funny... sometimes..........
 
-👾 Intermediate Developer focusing on JavaScript-based apps.  
+👾 Senior Developer focusing on JavaScript-based apps.  
 🖥️ Proud to have developed for top SA brands:  
    - [Crocs](https://crocssa.co.za/)
    - [Under Armour](https://underarmour.co.za) && APP [IOS](https://apps.apple.com/app/under-armour-sa/id6451363260) [ANDROID](https://play.google.com/store/apps/details?id=co.za.underarmour.app)
